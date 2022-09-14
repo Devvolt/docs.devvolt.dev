@@ -58,11 +58,11 @@ const config = {
     ({
       navbar: {
         title: 'Devvolt',
+        hideOnScroll: true,
         logo: {
           alt: 'Devvolt Logo',
           src: 'img/devvolt.png',
         },
-        
         items: [
           {
             href: 'https://www.github.com/devvolt',
