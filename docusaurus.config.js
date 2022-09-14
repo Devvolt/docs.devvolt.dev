@@ -141,6 +141,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: 'FD6MFZFZBH',
+        apiKey: 'ecd193337c6d7e3809683d4bd4022e44',
+        indexName: 'devvolt',
+        contextualSearch: true,
+      }
     }),
 };
 
